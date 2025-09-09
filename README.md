@@ -2,7 +2,7 @@
 
 ## Hi 👋, I'm Jihan Najib
 
-🎓 UIN Maulana Malik Ibrahim Malang | 💻 Inforatics Student | 📍 Indonesia  
+🎓 UIN Maulana Malik Ibrahim Malang | 💻 Informatics Student | 📍 Indonesia  
 
 ---
 - Nama : Jihan Najib
