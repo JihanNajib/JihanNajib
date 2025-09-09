@@ -2,10 +2,13 @@
 
 ## Hi 👋, I'm Jihan Najib
 
-🎓 Informatics Student | 💻 Tech Enthusiast | 📍 Indonesia  
+🎓 UIN Maulana Malik Ibrahim Malang | 💻 Inforatics Student | 📍 Indonesia  
 
 ---
-
+- Nama : Jihan Najib
+- NIM : 230605110204
+- Kelas : Praktikum Mobile C
+  
 ### 💻 Programming Languages
 - Java ☕
 - PHP 🌐
