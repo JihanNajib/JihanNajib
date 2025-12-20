@@ -35,7 +35,7 @@
 | 9  | 01-09-2025 | 04           | StatefulWidget                  | [Laporan 9](https://docs.google.com/document/d/12ov-KdpNKHPNwzhxCuwBNZBVnhSUagtmBTmrQ0hod8c/edit?tab=t.0) | [tasbih app](https://github.com/JihanNajib/modul9_tasbih_app) & [counter app](https://github.com/JihanNajib/modul9_counter_app)|
 | 10  | 08-10-2025 | 05           | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter                 | [Laporan 10](https://docs.google.com/document/d/1stRMy87OBzxN229ep1DXJJzttUpsEkDvySC5LONADTA/edit?tab=t.0) | [Modul 10]|
 | 11 | 15-10-2025 | 06           | Manajemen State dengan GetX  | [Laporan 11](https://docs.google.com/document/d/1xay9EnQNCXmKsov4kCd1OHpbq_FRc70UfuLbCO1R2D8/edit?usp=sharing) | [Modul 11](https://github.com/JihanNajib/Modul11)|
-| 13 |  | 09           | Akses Lokasi dengan GPS di Flutter | [Laporan 12]() | [Modul 12]()|
+| 13 |  | 09           | Akses Lokasi dengan GPS di Flutter | [Laporan 12]() | [Modul 12](https://github.com/JihanNajib/modul12)|
 | 14 |  | 10           | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API | [Laporan 13]() | [Modul 13](https://github.com/JihanNajib/modul13)|
 
 ---
