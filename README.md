@@ -36,6 +36,6 @@
 | 10  | 08-10-2025 | 05           | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter                 | [Laporan 10](https://docs.google.com/document/d/1stRMy87OBzxN229ep1DXJJzttUpsEkDvySC5LONADTA/edit?tab=t.0) | [Modul 10]|
 | 11 | 15-10-2025 | 06           | Manajemen State dengan GetX  | [Laporan 11](https://docs.google.com/document/d/1xay9EnQNCXmKsov4kCd1OHpbq_FRc70UfuLbCO1R2D8/edit?usp=sharing) | [Modul 11](https://github.com/JihanNajib/Modul11)|
 | 13 |  | 09           | Akses Lokasi dengan GPS di Flutter | [Laporan 12]() | [Modul 12]()|
-| 14 |  | 10           | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API | [Laporan 13]() | [Modul 13]()|
+| 14 |  | 10           | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API | [Laporan 13]() | [Modul 13](https://github.com/JihanNajib/modul13)|
 
 ---
