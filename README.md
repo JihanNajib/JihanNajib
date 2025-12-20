@@ -33,7 +33,7 @@
 | 7  | 17-09-2025 | 04           | Navigasi Antar Halaman Menggunakan MaterialPageRoute dan Named Route                  | [Laporan 7](https://docs.google.com/document/d/1vW4ivHpfy7qUZHU8kb6doNzwRCU3JS9SiXSx1oOgO0w/edit?tab=t.0) |  [Modul 7](https://github.com/JihanNajib/modul7) |
 | 8  | 17-09-2025 | 04           | Navigasi Antar Halaman dengan Mengirimkan Argumen Menggunakan Named Route                   | [Laporan 8](https://docs.google.com/document/d/12damPA95pH7cMGKaltARW01u-IPDtaI_f6QIB3jlHN8/edit?tab=t.0) |[navigasi argumen](https://github.com/JihanNajib/modul8_navigasi_argumen) & [navigasi named route](https://github.com/JihanNajib/modul8_demo_navigasi_namedroute)|
 | 9  | 01-09-2025 | 04           | StatefulWidget                  | [Laporan 9](https://docs.google.com/document/d/12ov-KdpNKHPNwzhxCuwBNZBVnhSUagtmBTmrQ0hod8c/edit?tab=t.0) | [tasbih app](https://github.com/JihanNajib/modul9_tasbih_app) & [counter app](https://github.com/JihanNajib/modul9_counter_app)|
-| 10  | 08-10-2025 | 05           | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter                 | [Laporan 10] | [Modul 10]|
+| 10  | 08-10-2025 | 05           | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter                 | [Laporan 10](https://docs.google.com/document/d/1stRMy87OBzxN229ep1DXJJzttUpsEkDvySC5LONADTA/edit?tab=t.0) | [Modul 10]|
 | 11 | 15-10-2025 | 06           | Manajemen State dengan GetX  | [Laporan 11](https://docs.google.com/document/d/1xay9EnQNCXmKsov4kCd1OHpbq_FRc70UfuLbCO1R2D8/edit?usp=sharing) | [Modul 11](https://github.com/JihanNajib/Modul11)|
 
 ---
