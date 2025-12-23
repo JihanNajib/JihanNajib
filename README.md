@@ -37,5 +37,6 @@
 | 11 | 15-10-2025 | 06           | Manajemen State dengan GetX  | [Laporan 11](https://docs.google.com/document/d/1xay9EnQNCXmKsov4kCd1OHpbq_FRc70UfuLbCO1R2D8/edit?usp=sharing) | [Modul 11](https://github.com/JihanNajib/Modul11)|
 | 13 |  | 09           | Akses Lokasi dengan GPS di Flutter | [Laporan 12](https://docs.google.com/document/d/1_1ts1gBOqhJwbrEWJ_lOHmFoEsr6YNQBuvky1FMV654/edit?usp=sharing) | [Modul 12](https://github.com/JihanNajib/modul12)|
 | 14 |  | 10           | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API | [Laporan 13](https://docs.google.com/document/d/1lx0bv-X1gTZQDxFKbjOXA_SWMq_nkM_id0LAQA8t3PU/edit?usp=sharing) | [Modul 13](https://github.com/JihanNajib/modul13)|
+| 15 |  |            | UAS | [Laporan]() | [repo]()|
 
 ---
